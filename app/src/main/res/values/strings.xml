@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesTest</string>
+    <string name="error_internet">Проверте подключение к интернету</string>
+</resources>
